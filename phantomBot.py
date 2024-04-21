@@ -9,7 +9,7 @@ import itertools
 from hashlib import sha256
 import binascii
 
-EXTENSION_PATH = r'C:\Users\yutab\AppData\Local\Google\Chrome\User Data\Default\Extensions\bfnaelmomeimhlpmgjnjophhpkkoljpa\24.5.0_0.crx'
+EXTENSION_PATH = r'path to your crx file'
 
 #open chrome
 OPT = webdriver.ChromeOptions()
